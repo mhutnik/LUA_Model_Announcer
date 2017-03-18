@@ -1,0 +1,8 @@
+{
+  "default":"en",
+  "en":{
+    "appName":"Model Announcer",
+    "audioFileSel":"Select Voicefile",
+	"delayTime":"Adjust Delay (s)"
+  }
+}
