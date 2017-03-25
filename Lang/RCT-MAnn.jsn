@@ -4,5 +4,10 @@
     "appName":"Model Announcer",
     "audioFileSel":"Select Voicefile",
 	"delayTime":"Adjust Delay (s)"
+  },
+  "de":{
+    "appName":"Modellansage",
+    "audioFileSel":"Sprachdatei wählen",
+	"delayTime":"Verzögerung (s)"
   }
 }

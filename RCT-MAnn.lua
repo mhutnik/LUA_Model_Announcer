@@ -9,8 +9,9 @@
     
     Model Announcer requires firmware 4.22 or newer.
     
+    German translation by Norbert Kolb
+    ---------------------------------------------------------
     Localisation-file has to be as /Apps/Lang/RCT-MAnn.jsn
-    
     ---------------------------------------------------------
     Released under MIT-license by Tero @ RC-Thoughts.com 2017
     ---------------------------------------------------------
@@ -90,7 +91,7 @@ local function init()
     collectgarbage()
 end
 --------------------------------------------------------------------------------
-modAnnVersion = "1.1"
+modAnnVersion = "1.2"
 setLanguage()
 collectgarbage()
 return {init=init, loop=loop, author="RC-Thoughts", version=modAnnVersion, name=trans12.appName}
