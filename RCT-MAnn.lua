@@ -77,6 +77,7 @@ local function loop()
         end
         done = true
     end
+    collectgarbage()
 end
 --------------------------------------------------------------------------------
 -- App initialization
@@ -89,6 +90,7 @@ local function init()
     collectgarbage()
 end
 --------------------------------------------------------------------------------
-modAnnVersion = "1.0"
+modAnnVersion = "1.1"
 setLanguage()
+collectgarbage()
 return {init=init, loop=loop, author="RC-Thoughts", version=modAnnVersion, name=trans12.appName}
