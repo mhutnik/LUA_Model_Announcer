@@ -9,5 +9,15 @@
     "appName":"Modellansage",
     "audioFileSel":"Sprachdatei wählen",
 	"delayTime":"Verzögerung (s)"
+  },
+  "cz":{
+    "appName":"Ohlašovač Modelu",
+    "audioFileSel":"Výběr Souboru",
+	"delayTime":"Opozdení ohlášení"
+  },
+  "sk":{
+    "appName":"Ohlásenie Modelu",
+    "audioFileSel":"Výber Súboru",
+	"delayTime":"Opozdenie Ohlásenia"
   }
 }
